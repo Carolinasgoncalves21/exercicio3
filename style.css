@@ -1,0 +1,48 @@
+/* Estilizando os títulos com cor de fundo */
+h1 {
+    font-size: 2.5em;
+    color: #4CAF50;
+    background-color: #DFF2BF; /* Fundo verde claro */
+    padding: 10px;
+    margin: 10px 0;
+}
+
+h2 {
+    font-size: 2em;
+    color: #2196F3;
+    background-color: #B3E5FC; /* Fundo azul claro */
+    padding: 10px;
+    margin: 10px 0;
+}
+
+h3 {
+    font-size: 1.75em;
+    color: #FF9800;
+    background-color: #FFEB3B; /* Fundo amarelo claro */
+    padding: 10px;
+    margin: 10px 0;
+}
+
+h4 {
+    font-size: 1.5em;
+    color: #9C27B0;
+    background-color: #F8BBD0; /* Fundo rosa claro */
+    padding: 10px;
+    margin: 10px 0;
+}
+
+h5 {
+    font-size: 1.25em;
+    color: #E91E63;
+    background-color: #FFCDD2; /* Fundo rosa claro */
+    padding: 10px;
+    margin: 10px 0;
+}
+
+h6 {
+    font-size: 1em;
+    color: #00BCD4;
+    background-color: #B2EBF2; /* Fundo azul claro */
+    padding: 10px;
+    margin: 10px 0;
+}
