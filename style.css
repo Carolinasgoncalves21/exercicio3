@@ -3,46 +3,46 @@ h1 {
     font-size: 2.5em;
     color: #4CAF50;
     background-color: #DFF2BF; /* Fundo verde claro */
-    padding: 10px;
-    margin: 10px 0;
+    padding: 10px;   /* Adiciona espaço interno dentro do título, entre o texto e a borda do fundo */
+    margin: 10px 0;  /* Adiciona espaço externo ao redor do título, separando-o de outros elementos (acima e abaixo) */
 }
 
 h2 {
     font-size: 2em;
     color: #2196F3;
     background-color: #B3E5FC; /* Fundo azul claro */
-    padding: 10px;
-    margin: 10px 0;
+    padding: 10px;   /* Espaço interno dentro do título */
+    margin: 10px 0;  /* Espaço externo ao redor do título */
 }
 
 h3 {
     font-size: 1.75em;
     color: #FF9800;
     background-color: #FFEB3B; /* Fundo amarelo claro */
-    padding: 10px;
-    margin: 10px 0;
+    padding: 10px;   /* Espaço interno dentro do título */
+    margin: 10px 0;  /* Espaço externo ao redor do título */
 }
 
 h4 {
     font-size: 1.5em;
     color: #9C27B0;
     background-color: #F8BBD0; /* Fundo rosa claro */
-    padding: 10px;
-    margin: 10px 0;
+    padding: 10px;   /* Espaço interno dentro do título */
+    margin: 10px 0;  /* Espaço externo ao redor do título */
 }
 
 h5 {
     font-size: 1.25em;
     color: #E91E63;
     background-color: #FFCDD2; /* Fundo rosa claro */
-    padding: 10px;
-    margin: 10px 0;
+    padding: 10px;   /* Espaço interno dentro do título */
+    margin: 10px 0;  /* Espaço externo ao redor do título */
 }
 
 h6 {
     font-size: 1em;
     color: #00BCD4;
     background-color: #B2EBF2; /* Fundo azul claro */
-    padding: 10px;
-    margin: 10px 0;
+    padding: 10px;   /* Espaço interno dentro do título */
+    margin: 10px 0;  /* Espaço externo ao redor do título */
 }
